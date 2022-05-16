@@ -22,6 +22,6 @@ Schedule:
 | June 30  | Variable Selection and Confounding  | 5: The Many Variables and the Spurious Waffles & 6: The Haunted DAG and The Causal Terror  ||[Lec 4](https://www.youtube.com/watch?v=QiHKdvAbYII&list=PLDcUM9US4XdMROZ57-OIRtIK0aOynbgZN&index=5) [Lec 5](https://www.youtube.com/watch?v=UpP-_mBvECI&list=PLDcUM9US4XdMROZ57-OIRtIK0aOynbgZN&index=6) [Lec 6](https://www.youtube.com/watch?v=NSuTaeW6Orc&list=PLDcUM9US4XdMROZ57-OIRtIK0aOynbgZN&index=7) [Lec 7](https://www.youtube.com/watch?v=odGAAJDlgp8&list=PLDcUM9US4XdMROZ57-OIRtIK0aOynbgZN&index=8)|
 | July 7  |  Model Building: Parameterization | 7: Ulysses' Compass  ||[Lec 3]|
 | July 14  | Model Building: Interaction Terms  | 8: Conditional Manatees   ||[Lec 3]|
-| July 21  |  MCMC | 9: Markov Chain Monte Carlo  ||[Lec 8]()https://www.youtube.com/watch?v=Qqz5AJjyugM&list=PLDcUM9US4XdMROZ57-OIRtIK0aOynbgZN&index=9|
+| July 21  |  MCMC | 9: Markov Chain Monte Carlo  ||[Lec 8](https://www.youtube.com/watch?v=Qqz5AJjyugM&list=PLDcUM9US4XdMROZ57-OIRtIK0aOynbgZN&index=9)|
 | July 28  | GLMs  | 10: Big Entropy and The GLM  ||[Lec 9](https://www.youtube.com/watch?v=nPi5yGbfxuo&list=PLDcUM9US4XdMROZ57-OIRtIK0aOynbgZN&index=10)|
 | Aug 4  | Extensions of the GLM  | 11: God Spiked the Integers  ||[Lec 10](https://www.youtube.com/watch?v=YrwL6t0kW2I&list=PLDcUM9US4XdMROZ57-OIRtIK0aOynbgZN&index=11) [Lec 11](https://www.youtube.com/watch?v=-397DMPooR8&list=PLDcUM9US4XdMROZ57-OIRtIK0aOynbgZN&index=12)|
