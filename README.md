@@ -1,5 +1,7 @@
 # UNC Gillings Statistical Rethinking Summer Book Club 2022 
 
+Book club to go through McElreath's book 'Statistical Rethinking.' Schedule below follows [recommended schedule (here)](https://github.com/rmcelreath/stat_rethinking_2022) from McElreath himself. 
+
 Scheduled Time: June-August 2022; Thursdays 4pm-5pm
 
 Schedule:
